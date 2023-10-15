@@ -7,7 +7,7 @@ This is a simple to-do list project that allows users to add, update, and delete
 
 Check out the Demo video to see it in action and let me know what you think! 🤔
 
-Demo Link :- https://drive.google.com/file/d/1SZUrZ3isZIQhKxHUhZhRlcCgH5rgS0fg/view?usp=share_link
+Demo Link :- 
 
 ## Features
 
@@ -88,31 +88,25 @@ Some Resources:-
 
 Contributions are always welcome!
 
-This project was created by **Rohit Sharma** . If you have any feedback or suggestions, please contact me at **28rohitsharmait@gmail.com** .
+This project was created by **Bhavesh Namdev** . If you have any feedback or suggestions, please contact me at **bhavesh.namdev0105@gmail.com** .
 
 
 ## 🚀 About Me
-Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field. I'm passionate about building web applications and creating user-friendly interfaces that make people's lives easier. My main areas of expertise include front-end and web design.
+Hello, I'm Bhavesh Namdev, I'm passionate about building web applications and creating user-friendly interfaces that make people's lives easier. My main areas of expertise include front-end and web design.
 
 ## Skills
-- C++ Programing
-- C Programing
+
 - Java
 - Problme Solving
 - Object Oriented Programing
 - HTML
 - CSS
-- CSS Tailwind
-- JavaScript
-- React
-- Node.js
+
 ## Feedback
 
-If you have any feedback, please reach out to me at 28rohitsharmait@gmail.com
+If you have any feedback, please reach out to me at bhavesh.namdev0105@gmail.com
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mgwaaxiynjbsesiu3byn2a.on.drv.tw/Rohit's_Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitsharma2003/)
+
 
 
